@@ -19,7 +19,7 @@ class _SayfaAState extends State<SayfaA> {
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
             ElevatedButton(onPressed: (){
-              Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => const SayfaB()));
+              Navigator.push(context, MaterialPageRoute(builder: (context) => const SayfaB()));
             }, child: const Text("GİT>B")),
           ],
         ),
