@@ -1,7 +1,6 @@
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:odev4_calisma_yapisi/sayfa_a.dart';
-import 'package:odev4_calisma_yapisi/sayfa_x.dart';
+import 'package:flutter_sayfa_gecis_ornekleri/sayfa_a.dart';
+import 'package:flutter_sayfa_gecis_ornekleri/sayfa_x.dart';
 
 class Anasayfa extends StatefulWidget {
   const Anasayfa({super.key});

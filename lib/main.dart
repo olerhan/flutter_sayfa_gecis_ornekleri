@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:odev4_calisma_yapisi/anasayfa.dart';
+import 'package:flutter_sayfa_gecis_ornekleri/anasayfa.dart';
 
 void main() {
   runApp(const MyApp());

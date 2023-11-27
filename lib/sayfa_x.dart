@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:odev4_calisma_yapisi/sayfa_y.dart';
+import 'package:flutter_sayfa_gecis_ornekleri/sayfa_y.dart';
 
 class SayfaX extends StatefulWidget {
   const SayfaX({super.key});
